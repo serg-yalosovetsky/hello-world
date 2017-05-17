@@ -1,0 +1,32 @@
+c:\users\dima\documents\visual studio 2010\Projects\mGKS\mGKS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2010\Projects\mGKS\mGKS\obj\x86\Debug\mGKS.Form1.resources
+c:\users\dima\documents\visual studio 2010\Projects\mGKS\mGKS\obj\x86\Debug\mGKS.Properties.Resources.resources
+c:\users\dima\documents\visual studio 2010\Projects\mGKS\mGKS\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\dima\documents\visual studio 2010\Projects\mGKS\mGKS\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\dima\documents\visual studio 2010\Projects\mGKS\mGKS\obj\x86\Debug\mGKS.Resources.resources
+c:\users\dima\documents\visual studio 2010\Projects\mGKS\mGKS\bin\Debug\mGKS.exe
+c:\users\dima\documents\visual studio 2010\Projects\mGKS\mGKS\bin\Debug\mGKS.pdb
+c:\users\dima\documents\visual studio 2010\Projects\mGKS\mGKS\obj\x86\Debug\mGKS.exe
+c:\users\dima\documents\visual studio 2010\Projects\mGKS\mGKS\obj\x86\Debug\mGKS.pdb
+c:\users\dima\documents\visual studio 2010\Projects\mGKS\mGKS\obj\x86\Debug\mGKS.FormMore.resources
+C:\Users\Kolya\Desktop\mGKS\mGKS\obj\x86\Debug\mGKS.exe
+C:\Users\Kolya\Desktop\mGKS\mGKS\obj\x86\Debug\mGKS.pdb
+C:\Users\Kolya\Desktop\mGKS\mGKS\bin\Debug\mGKS.exe
+C:\Users\Kolya\Desktop\mGKS\mGKS\bin\Debug\mGKS.pdb
+C:\Users\Kolya\Desktop\mGKS\mGKS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kolya\Desktop\mGKS\mGKS\obj\x86\Debug\mGKS.Form1.resources
+C:\Users\Kolya\Desktop\mGKS\mGKS\obj\x86\Debug\mGKS.FormMore.resources
+C:\Users\Kolya\Desktop\mGKS\mGKS\obj\x86\Debug\mGKS.Properties.Resources.resources
+C:\Users\Kolya\Desktop\mGKS\mGKS\obj\x86\Debug\mGKS.Resources.resources
+C:\Users\Kolya\Desktop\mGKS\mGKS\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Kolya\Desktop\mGKS\mGKS\obj\x86\Debug\ResGen.write.1.tlog
+D:\_KPI\3 Kurs 2016\ГКС-2\mGKS\mGKS\obj\x86\Debug\mGKS.exe
+D:\_KPI\3 Kurs 2016\ГКС-2\mGKS\mGKS\obj\x86\Debug\mGKS.pdb
+D:\_KPI\3 Kurs 2016\ГКС-2\mGKS\mGKS\bin\Debug\mGKS.exe
+D:\_KPI\3 Kurs 2016\ГКС-2\mGKS\mGKS\bin\Debug\mGKS.pdb
+D:\_KPI\3 Kurs 2016\ГКС-2\mGKS\mGKS\obj\x86\Debug\mGKS.csprojResolveAssemblyReference.cache
+D:\_KPI\3 Kurs 2016\ГКС-2\mGKS\mGKS\obj\x86\Debug\mGKS.Form1.resources
+D:\_KPI\3 Kurs 2016\ГКС-2\mGKS\mGKS\obj\x86\Debug\mGKS.FormMore.resources
+D:\_KPI\3 Kurs 2016\ГКС-2\mGKS\mGKS\obj\x86\Debug\mGKS.Properties.Resources.resources
+D:\_KPI\3 Kurs 2016\ГКС-2\mGKS\mGKS\obj\x86\Debug\mGKS.Resources.resources
+D:\_KPI\3 Kurs 2016\ГКС-2\mGKS\mGKS\obj\x86\Debug\mGKS.csproj.GenerateResource.Cache
